@@ -1,7 +1,7 @@
 <p align="center">
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
-
+ 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
